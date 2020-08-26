@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/6583102/trouble-with-neurondotnet-in-c-sharp

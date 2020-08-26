@@ -1,0 +1,50 @@
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe.config
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.pdb
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csprojResolveAssemblyReference.cache
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Form1.resources
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Properties.Resources.resources
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csproj.GenerateResource.Cache
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.exe
+C:\Users\Personal\AppData\Local\Temporary Projects\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.pdb
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe.config
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.exe
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.pdb
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.pdb
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Form1.resources
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Properties.Resources.resources
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csproj.GenerateResource.Cache
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\AForge.Controls.dll
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\AForge.dll
+C:\Users\Personal\Documents\Visual Studio 2012\Projects\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\AForge.Neuro.dll
+F:\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe.config
+F:\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.exe
+F:\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.pdb
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe.config
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.exe
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.pdb
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.pdb
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\NeuronDotNet.Core.dll
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\NeuronDotNet.Core.xml
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Form1.resources
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Properties.Resources.resources
+C:\Users\Personal\Desktop\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csproj.GenerateResource.Cache
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe.config
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.exe
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Libredneuronal.RedNeuronal.dll
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Libredneuronal.RedNeuronal.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Libredneuronal.RedNeuronal.xml
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Form1.resources
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.Properties.Resources.resources
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.csproj.GenerateResource.Cache
+D:\Biblioteca\Mis Documentos\Eric\IX Semestre\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\bin\Debug\Reconocimientodenumeros.exe.config
+D:\Biblioteca\Mis Documentos\Eric\IX Semestre\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.exe
+D:\Biblioteca\Mis Documentos\Eric\IX Semestre\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\obj\Debug\Reconocimientodenumeros.pdb

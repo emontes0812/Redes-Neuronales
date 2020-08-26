@@ -1,0 +1,21 @@
+C:\Users\Eric\Desktop\Libredneuronal\RedNeuronal\obj\Debug\RedNeuronal.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.XML
+C:\Users\Eric\Desktop\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.dll
+C:\Users\Eric\Desktop\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.pdb
+C:\Users\Eric\Desktop\Libredneuronal\RedNeuronal\obj\Debug\Libredneuronal.RedNeuronal.dll
+C:\Users\Eric\Desktop\Libredneuronal\RedNeuronal\obj\Debug\Libredneuronal.RedNeuronal.pdb
+C:\Users\Eric\Desktop\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.tlb
+C:\Users\Eric\Desktop\Proyectos visual basic\Libreria red neuronal\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.XML
+C:\Users\Eric\Desktop\Proyectos visual basic\Libreria red neuronal\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.dll
+C:\Users\Eric\Desktop\Proyectos visual basic\Libreria red neuronal\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Libreria red neuronal\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.tlb
+C:\Users\Eric\Desktop\Proyectos visual basic\Libreria red neuronal\Libredneuronal\RedNeuronal\obj\Debug\RedNeuronal.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Proyectos visual basic\Libreria red neuronal\Libredneuronal\RedNeuronal\obj\Debug\Libredneuronal.RedNeuronal.dll
+C:\Users\Eric\Desktop\Proyectos visual basic\Libreria red neuronal\Libredneuronal\RedNeuronal\obj\Debug\Libredneuronal.RedNeuronal.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.XML
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\Libredneuronal\RedNeuronal\obj\Debug\RedNeuronal.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\Libredneuronal\RedNeuronal\obj\Debug\Libredneuronal.RedNeuronal.dll
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\Libredneuronal\RedNeuronal\obj\Debug\Libredneuronal.RedNeuronal.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.dll
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.pdb
+C:\Users\Eric\Desktop\Proyectos visual basic\Reconocimientodenumeros\Reconocimientodenumeros\Libredneuronal\RedNeuronal\bin\Debug\Libredneuronal.RedNeuronal.tlb
